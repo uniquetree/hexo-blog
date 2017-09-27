@@ -79,4 +79,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:uniquetree/uniquetree.github.io.git
-  branch: mater
+  branch: master
